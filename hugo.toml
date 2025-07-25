@@ -22,6 +22,10 @@ theme = 'shibui'
     url = "/posts/"
     weight = 2
   [[menu.main]]
+    name = "Reading"
+    url = "/reading/"
+    weight = 3
+  [[menu.main]]
     name = "Fun"
     url = "/fun/"
-    weight = 3
+    weight = 4

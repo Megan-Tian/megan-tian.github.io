@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/fun/</loc>
+    <loc>https://megan-tian.github.io/</loc>
+    <lastmod>2025-07-25T16:29:17-07:00</lastmod>
+  </url><url>
+    <loc>https://megan-tian.github.io/fun/</loc>
     <lastmod>2025-07-25T12:42:57-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-07-25T12:42:57-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://megan-tian.github.io/about/</loc>
     <lastmod>2025-07-25T12:23:21-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://megan-tian.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://megan-tian.github.io/tags/</loc>
   </url>
 </urlset>
