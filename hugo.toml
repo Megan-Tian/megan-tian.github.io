@@ -6,3 +6,22 @@ theme = 'shibui'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+
+[params]
+  author = "Megan Tian"
+  email = "megant@mit.edu"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "Fun"
+    url = "/fun/"
+    weight = 3
