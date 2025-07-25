@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Megan Tian</title>
-    <link>http://localhost:1313/</link>
+    <link>https://megan-tian.github.io/</link>
     <description>Recent content on Megan Tian</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 Jul 2025 16:29:17 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://megan-tian.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reading</title>
-      <link>http://localhost:1313/reading/</link>
+      <link>https://megan-tian.github.io/reading/</link>
       <pubDate>Fri, 25 Jul 2025 16:29:17 -0700</pubDate>
-      <guid>http://localhost:1313/reading/</guid>
+      <guid>https://megan-tian.github.io/reading/</guid>
       <description></description>
     </item>
     <item>
       <title>Posts</title>
-      <link>http://localhost:1313/posts/</link>
+      <link>https://megan-tian.github.io/posts/</link>
       <pubDate>Fri, 25 Jul 2025 16:29:11 -0700</pubDate>
-      <guid>http://localhost:1313/posts/</guid>
+      <guid>https://megan-tian.github.io/posts/</guid>
       <description>&lt;p&gt;Stay tuned :)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fun</title>
-      <link>http://localhost:1313/fun/</link>
+      <link>https://megan-tian.github.io/fun/</link>
       <pubDate>Fri, 25 Jul 2025 12:42:57 -0700</pubDate>
-      <guid>http://localhost:1313/fun/</guid>
+      <guid>https://megan-tian.github.io/fun/</guid>
       <description>&lt;h2 id=&#34;food&#34;&gt;Food&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Best&amp;hellip;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;🥢&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;https://www.google.com/maps/place/Flour+Bakery+%2B+Cafe/@42.3610064,-71.0992035,16z/data=!3m1!4b1!4m6!3m5!1s0x89e370aad948e3b9:0xf9401c0c72272053!8m2!3d42.3610025!4d-71.0966286!16s%2Fg%2F1tg4xvxm?entry=ttu&amp;amp;g_ep=EgoyMDI1MDcyMi4wIKXMDSoASAFQAw%3D%3D&#34;&gt;Flour&lt;/a&gt; sweet treat&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;grapefruit olive oil pound cake&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;udon&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;https://www.google.com/maps/place/Futago+Udon/@42.3475576,-71.1107307,17z/data=!3m1!4b1!4m6!3m5!1s0x89e379209ec079b1:0x60b5fb6a3f1379e3!8m2!3d42.3475537!4d-71.1058598!16s%2Fg%2F11fkq2mpjy?entry=ttu&amp;amp;g_ep=EgoyMDI1MDcyMi4wIKXMDSoASAFQAw%3D%3D&#34;&gt;Futago&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;noodles (overall)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;https://www.google.com/maps/place/Lanner+Noodles%26Bar/@42.3641568,-71.1055298,16z/data=!3m1!4b1!4m6!3m5!1s0x89e3777170cc0b97:0xb273760d205c4e71!8m2!3d42.3641529!4d-71.1029549!16s%2Fg%2F11lcmzmmyz?entry=ttu&amp;amp;g_ep=EgoyMDI1MDcyMi4wIKXMDSoASAFQAw%3D%3D&#34;&gt;Lanner&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;campus vending machine&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;the ones in Stata basement&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;bevvies&#34;&gt;Bevvies&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Best&amp;hellip;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;🥤&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;dirty matcha&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;https://www.google.com/maps/place/VESTER+Cambridge/@42.3632248,-71.0908565,17z/data=!3m1!4b1!4m6!3m5!1s0x89e371f91ba3519b:0xe1de5b2dc2ad0511!8m2!3d42.3632209!4d-71.0882816!16s%2Fg%2F11fct14g5r?entry=ttu&amp;amp;g_ep=EgoyMDI1MDcyMi4wIKXMDSoASAFQAw%3D%3D&#34;&gt;Vester&lt;/a&gt; - get the Camo!&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;redbull flavor&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;green (elderflower)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;campus cofffee&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;https://breakerspace.mit.edu/&#34;&gt;Breakerspace&lt;/a&gt; La Marzocco Linea PB&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://megan-tian.github.io/about/</link>
       <pubDate>Fri, 25 Jul 2025 12:23:21 -0700</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://megan-tian.github.io/about/</guid>
       <description>&lt;p&gt;Hey there! I&amp;rsquo;m Megan, an undergrad studying CS at MIT. I love all things robots and autonomous systems, and I&amp;rsquo;m passionate about building safe, smart, and robust systems that solve real-world problems. Some of my current academic and research interests include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;human-robot interaction&lt;/li&gt;&#xA;&lt;li&gt;multiagent systems&lt;/li&gt;&#xA;&lt;li&gt;reinforcement learning&lt;/li&gt;&#xA;&lt;li&gt;optimization&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I also have previous experience with digital twins, synthetic data, computer vision, computational biology, and wet-lab research in an gene therapy / virus lab.&lt;/p&gt;</description>
     </item>
   </channel>
