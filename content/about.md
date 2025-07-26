@@ -13,7 +13,7 @@ Hey there! I'm Megan, an undergrad studying CS at MIT. I love all things robots 
 I also have previous experience with digital twins, synthetic data, computer vision, computational biology, and wet-lab research in an gene therapy / virus lab.
 
 On campus I'm a...
-- career development chair @ [MIT SWE](https://swe.mit.edu/)
-- violinist in [Chamber Music Society](https://mta.mit.edu/music/performance/mit-chamber-music-society)
-- software engineer @ [MIT Motorsports](https://fsae.mit.edu/)
+- 🤝 career development chair @ [MIT SWE](https://swe.mit.edu/)
+- 🎻 violinist in [Chamber Music Society](https://mta.mit.edu/music/performance/mit-chamber-music-society)
+- 🏎️ software engineer @ [MIT Motorsports](https://fsae.mit.edu/)
 
